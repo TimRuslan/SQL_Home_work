@@ -1,0 +1,45 @@
+{
+ "FirstName": "Ruslan",
+  "lastName": "Timofeev",
+  "age": 26,
+  "gender": "male",
+  "merried": true,
+  "phonenumber": ["+375444795378", "89110259711"],
+  "email": "ruslantimofeev2013@gmail.com",
+  "job":"CNC machine operator",
+  "adresse":{"city":"Minsk",	"MetroStation":"Uruchie"},	
+  "hobbies":["League of Legends","cycling sport","documentaries","Gym"], 
+"education1":
+ [{"name": "College of Industrial Technologies",
+	"location":"Saint-Petersburg",
+    "graduationYear": "2016",
+    "specialization": "Cabinetmaker",
+	 }],
+ "education2":
+    [{ "name": "EDEM",
+	"location":"Saint-Petersburg",
+    "graduationYear": "2019",
+    "specialization": "CNC machine operator",
+    }],
+	"unfinished education":
+	[{
+    "name":["Baltic State Technical University Military-Mechanical"],
+	"location":"Saint-Petersburg",
+    "graduationYear": "2022",
+    "specialization": "Test engineer",
+    }],
+"hardSkills": ["creating bug reports in CliCkup","design test technique","functional testing"],
+    "name": "clickup",
+    "level": "elementary",
+    "details": "creating bug reports",
+    "link": "https://app.clickup.com/9015564556/v/l/t/9015564556",
+	"name": "SQL",
+    "level": "Beginner",
+    "details": ["SELECT","WHERE","DESC","ASC","LIMIT","BETWEEN","LIKE","AND","IN","ORDER BY","VARCHAR","CHAR","DATE","DATETIME"],
+    "link": "https://github.com/TimRuslan/Test_Documentation/blob/main/sql-ex.ru.png",
+	"courses": ["Belhard Academy Software Testing Engineer Basic Level"],
+  "contacts": "https://belhard.academy",
+	"hobbies": ["League of Legends","cycling sport","documentaries","Gym"]
+	
+	
+}
